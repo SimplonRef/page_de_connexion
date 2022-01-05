@@ -1,0 +1,42 @@
+body{
+    background: #ad1a1a;
+}
+
+#container{
+    width:400px;
+    margin:0 auto;
+    margin-top: 35px;
+}
+
+form {
+    width:60%;
+    margin: 15px auto;
+    padding: 50px 50PX;
+    border-radius:15px;
+    background: #ad1a1a;
+    border: solid 1px #FFFFFF;
+}
+
+h2{
+    margin: 0 auto;
+    text-align: center;
+}
+
+.user{
+    color:#95911B ;
+}
+
+.pswd{
+    color: #95911B
+}   
+    
+input[type=text], input[type=password] {
+    width: 80%;
+    margin: 8px 0;
+    display: inline-block;
+}
+
+input[type=submit] {
+    margin-top: 15px;
+    padding: 5px 10px;
+}
